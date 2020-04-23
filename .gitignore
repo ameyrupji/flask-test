@@ -141,6 +141,8 @@ cython_debug/
 # Virtual Environment
 fask_test_venv
 
-
 # PyCharm
 .idea/
+
+# macOS
+.DS_Store
