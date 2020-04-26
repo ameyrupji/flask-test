@@ -1,4 +1,4 @@
-# flask-test
+# python-flask-helloworld
 
 Simple Hello World App using Flask!
 
